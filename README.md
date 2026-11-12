@@ -3,7 +3,7 @@ The Entire code for Arduino IDE:
 [Sketch.txt](https://github.com/user-attachments/files/34740381/Sketch.txt)
 
 
-Welcome to JDAKE Snake Game! A feature-packed Snake game built using Arduino Mega 2560, an OLED display, and a joystick.
+Welcome to JDAKE Snake Game! A feature-packed Snake game built using Arduino Mega 2560, an OLED display, and a joystick. Any bugs to Issues section
 
 ## 🎮 Features
 
