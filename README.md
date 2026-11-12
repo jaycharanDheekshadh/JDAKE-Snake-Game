@@ -53,7 +53,7 @@ The game uses the Arduino Mega's EEPROM storage to save supported game progress 
 ## 📦 Version
 
 **V1.1 ULTRA**
-Any BUGS to comments
+
 
 
 
